@@ -1,9 +1,9 @@
 # todo-react
 
-## Getting started
+## The project
 
 This project was made following the tutorial of Mozila Developer Network. You can see the tutorial [here](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
-
+<hr>
 Sample todo app built with the React/ReactDOM framework. For the accompanying documentation, see
 [Understanding client-side JavaScript frameworks
 : React tutorials](https://wiki.developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#React_tutorials).
